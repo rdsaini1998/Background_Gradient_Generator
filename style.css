@@ -1,11 +1,11 @@
 body {
 	font: 'Raleway', sans-serif;
-    color: rgba(0,0,0,.5);
+    color: rgba(0,0,0,0.5);
     text-align: center;
     text-transform: uppercase;
     letter-spacing: .5em;
     top: 15%;
-	background: linear-gradient(to right, red , yellow); /* Standard syntax */
+	background: linear-gradient(to right, red , yellow); /* This is the standard syntax */
 }
 
 h1 {
@@ -19,9 +19,9 @@ h1 {
 
 h3 {
 	font: 900 1em 'Raleway', sans-serif;
-    color: rgba(0,0,0,.5);
+    color: rgba(0,0,0,.55);
     text-align: center;
     text-transform: none;
-    letter-spacing: 0.01em;
+    letter-spacing: 0.05em;
 
 }
